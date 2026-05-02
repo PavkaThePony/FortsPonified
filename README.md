@@ -9,7 +9,7 @@ this is the pony-themed forts retexture and language adjustments
 ## How to install
 1. Download files from this github page
 2. Go to the root folder of the Forts(it will look like '\Program Files (x86)\Steam\steamapps\common\Forts', but exact path depends on your system and how steam is installed!)
-3. Grab the 'data' folder from this project(ignore README.md and license file) and overwrite Forts's 'data' folder with the folder you have downloaded from this page.
+3. Grab the 'data' folder from this project(ignore README.md, license file and images-for-github folder) and overwrite Forts's 'data' folder with the folder you have downloaded from this page.
 4. After that, the installation is complete and you can launch the game
 
 Important note: if there's no Equestria background in your game, then you have to switch the background settings ingame. Change background to the 'base' one.
