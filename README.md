@@ -1,4 +1,5 @@
 ![](images-for-github/preview.jpg)
+![](images-for-github/preview2.jpg)
 
 # Forts Ponified
 this is the pony-themed forts retexture and language adjustments
