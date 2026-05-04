@@ -5,7 +5,7 @@
 this is the pony-themed forts retexture and language adjustments
 
 ## What it has
-- Two language packages, fully redone (English, Russian)
+- Two language packages, fully redone (English, Russian) (Currently no Russian, but it is planned to remake it with unique style, sorry for deleting it, I just want to do better)
 - Assets retexture
 - Background retexture
 
